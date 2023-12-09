@@ -124,7 +124,7 @@ const ThankYouPage = async ({ searchParams }: PageProps) => {
                           <p className="my-1">Category: {label}</p>
                         </div>
 
-                        {order._isPaid ? (
+                        {/* {order._isPaid ? ( */}
                           <a
                             href={downloadUrl}
                             download={product.name}
@@ -132,7 +132,7 @@ const ThankYouPage = async ({ searchParams }: PageProps) => {
                           >
                             Download asset
                           </a>
-                        ) : null}
+                        {/* ) : null} */}
                       </div>
 
                       <p className="flex-none font-medium text-gray-900">
