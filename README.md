@@ -1,6 +1,6 @@
 # HippoAssets - Your Digital Marketplace
 
-### HippoAssets is a vibrant digital marketplace designed to streamline the process of buying and selling premium icons and UI kits. Whether you're a customer looking for high-quality digital assets or a seller eager to showcase and sell your own creations, HippoAssets provides a seamless and enjoyable experience.
+#### HippoAssets is a vibrant digital marketplace designed to streamline the process of buying and selling premium icons and UI kits. Whether you're a customer looking for high-quality digital assets or a seller eager to showcase and sell your own creations, HippoAssets provides a seamless and enjoyable experience.
 
   <img src="https://github.com/harshsahu12/hippoassets/assets/129574323/8bc2a293-2a33-4c71-935d-9723899a911c" width=800 />
 
@@ -27,7 +27,7 @@
 
  - Clone the Repository:
    
-       git clone https://github.com/your-username/hippoassets.git
+       git clone https://github.com/harshsahu12/hippoassets.git
     
  - Install Dependencies:
 
